@@ -1,0 +1,9 @@
+Customer Name:dfas
+Customer Address:fas
+                 dfasdfa,sdfdsf sdfasf
+Item Number           Item Name          Qty        Unit Cost        Total
+________________________________________________________________________________
+Item Number 97543     Product Name 113     10          181.6            181.6
+Item Number 97543     Product Name 113      5           90.8            272.4
+_______________________________________________________________________________
+                                                            Total: $ 272.4

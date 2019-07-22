@@ -1,9 +1,21 @@
-Customer Name:dfas
-Customer Address:fas
-                 dfasdfa,sdfdsf sdfasf
+Customer Name:Elvina
+Customer Address:2848 wellbourne drive
+                 Carrollton,Texas 75006
 Item Number           Item Name          Qty        Unit Cost        Total
 ________________________________________________________________________________
-Item Number 97543     Product Name 113     10          181.6            181.6
-Item Number 97543     Product Name 113      5           90.8            272.4
+Item Number 12735     Product Name 1     45          94.05            94.05
+Item Number 24286     Product Name 4     34         459.34           553.39
+Item Number 52384     Product Name 14     45         324.45           877.84
+Item Number 14187     Product Name 20     34         304.64          1182.48
+Item Number 52930     Product Name 22     23         215.97          1398.45
+Item Number 41657     Product Name 21     24         232.32          1630.77
+Item Number 30499     Product Name 43      4          34.92          1665.69
+Item Number 51395     Product Name 42     23          44.39          1710.08
+Item Number 24555     Product Name 60     32         181.76          1891.84
+Item Number 32311     Product Name 68     34         419.56           2311.4
+Item Number 31541     Product Name 89     23         413.08          2724.48
+Item Number 21662     Product Name 90     34            578          3302.48
+Item Number 11017     Product Name 91     96         205.44          3507.92
+Item Number 83662     Product Name 97     45         411.75          3919.67
 _______________________________________________________________________________
-                                                            Total: $ 272.4
+                                                            Total: $ 3919.67
